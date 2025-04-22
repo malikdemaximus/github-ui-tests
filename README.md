@@ -13,4 +13,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/github-ui-tests.git
+   git clone https://github.com/malikdemaximus/github-ui-tests.git
